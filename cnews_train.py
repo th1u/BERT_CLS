@@ -13,7 +13,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score, f1_score
 
 # %%
-wandb.login(key="daaae6f3402b0761b2df87305eec01b8502e1a0a")
+wandb.login(key="your key")
 wandb.init(project="cnews-classification-based_bert")
 
 # %%
